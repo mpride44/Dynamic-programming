@@ -6,7 +6,7 @@
 #include <bits/stdc++.h>
 
 using namespace std;
-
+//longest common subsequence
 lcs(string a,string b) {
     int m = a.length();
     int n = b.length();
